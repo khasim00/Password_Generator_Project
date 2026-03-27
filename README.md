@@ -8,7 +8,7 @@
 
   <h2 align="center">Fitlife - Fitness Website</h2>
 
-  Password Generator is a fully responsive website, <br />Designed and developed a dynamic image slider featuring smooth transitions, navigation controls, and responsive layout.
+  Password Generator is a fully responsive website, <br />Created a secure and user-friendly password generator using HTML, CSS, and JavaScript. It generates strong, random passwords to enhance user security.
 
   <a href="http://127.0.0.1:5500/index.html"><strong>➥ Live Demo</strong></a>
 
