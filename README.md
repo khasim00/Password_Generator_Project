@@ -6,7 +6,7 @@
   [gh repo clone]:(khasim00/Gym_Website_Project)
   [GitHub repo size]:(https://github.com/khasim00/Gym_Website_Project.git)
 
-  <h2 align="center">Fitlife - Fitness Website</h2>
+  <h2 align="center">Password Generator Project</h2>
 
   Password Generator is a fully responsive website, <br />Created a secure and user-friendly password generator using HTML, CSS, and JavaScript. It generates strong, random passwords to enhance user security.
 
